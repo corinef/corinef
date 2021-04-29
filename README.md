@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![uni faerie pink](https://user-images.githubusercontent.com/82867617/116566875-650abd80-a907-11eb-8cdb-9c7b0ece2202.png)
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=corinef&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
