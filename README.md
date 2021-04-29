@@ -18,18 +18,11 @@
 [<img align="left" alt="Corine Faehn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Corine Faehn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-</details> 
-
-[website]: https://corinealexis.wixsite.com/corinef
-[twitter]: https://twitter.com/corinefaehn?lang=en
-[instagram]: https://www.instagram.com/cor.ine.f/
-[linkedin]: https://www.linkedin.com/in/corinefaehn/
  
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://spotify-corinef.vercel.app/api/spotify)](https://open.spotify.com/user/corinef)
+[![Spotify](https://spotify-corinef.vercel.app/api/spotify)]
 
 
 
@@ -50,3 +43,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</details> 
+
+[website]: https://corinealexis.wixsite.com/corinef
+[twitter]: https://twitter.com/corinefaehn?lang=en
+[instagram]: https://www.instagram.com/cor.ine.f/
+[linkedin]: https://www.linkedin.com/in/corinefaehn/
