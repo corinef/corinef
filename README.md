@@ -11,24 +11,15 @@
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
- 
 ![Spotify](https://novatorem-corinef.vercel.app/api/spotify)
-
 
 
 ![minecraft](https://www.pngitem.com/pimgs/m/87-877092_minecraft-logo-hd-png-download.png)
 
 
 
-
-<!--<img align="left" width="400" src="https://user-images.githubusercontent.com/82867617/116566875-650abd80-a907-11eb-8cdb-9c7b0ece2202.png">
-
-<!--https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg
-
 </details> 
 [website]: https://corinealexis.wixsite.com/corinef
 [twitter]: https://twitter.com/corinefaehn?lang=en
 [instagram]: https://www.instagram.com/cor.ine.f/
 [linkedin]: https://www.linkedin.com/in/corinefaehn/
-
-
