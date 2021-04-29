@@ -29,7 +29,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://1278788494.vercel.app/api/spotify)](https://open.spotify.com/user/1278788494)
+[![Spotify](https://spotify-corinef.vercel.app/api/spotify)](https://open.spotify.com/user/1278788494)
 
 
 
