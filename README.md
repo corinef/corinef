@@ -1,4 +1,4 @@
-# Hey 👋  I'm Corine
+### Hey 👋  I'm Corine
   🔭 I'm currently working on finishing my Master's Thesis 
   
    > Check out my recent [Jupyter Notebook](https://github.com/corinef/qPCR-analysis)🍓 
