@@ -1,6 +1,4 @@
-![minecraft](https://www.pngitem.com/pimgs/m/87-877092_minecraft-logo-hd-png-download.png)
-
-### Hi there, I'm Corine
+# Hey 👋  I'm Corine
   🔭 I'm currently working on finishing my Master's Thesis 
   
    > Check out my recent [Jupyter Notebook](https://github.com/corinef/qPCR-analysis)🍓 
@@ -14,7 +12,7 @@
  
 ![Spotify](https://novatorem-corinef.vercel.app/api/spotify)
 
-
+![minecraft](https://www.pngitem.com/pimgs/m/87-877092_minecraft-logo-hd-png-download.png)
 
 
 <!--<img align="left" width="400" src="https://user-images.githubusercontent.com/82867617/116566875-650abd80-a907-11eb-8cdb-9c7b0ece2202.png">
