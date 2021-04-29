@@ -16,6 +16,12 @@
 
 
 
+</details> 
+[website]: https://corinealexis.wixsite.com/corinef
+[twitter]: https://twitter.com/corinefaehn?lang=en
+[instagram]: https://www.instagram.com/cor.ine.f/
+[linkedin]: https://www.linkedin.com/in/corinefaehn/
+
 
 
 <!--<img align="left" width="400" src="https://user-images.githubusercontent.com/82867617/116566875-650abd80-a907-11eb-8cdb-9c7b0ece2202.png">
@@ -23,10 +29,3 @@
 <!--https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg
 <!--
 **corinef/corinef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-</details> 
-
-[website]: https://corinealexis.wixsite.com/corinef
-[twitter]: https://twitter.com/corinefaehn?lang=en
-[instagram]: https://www.instagram.com/cor.ine.f/
-[linkedin]: https://www.linkedin.com/in/corinefaehn/
