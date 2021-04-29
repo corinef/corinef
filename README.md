@@ -1,4 +1,4 @@
-<img align="left" width="400" src="https://ih1.redbubble.net/image.1417405049.7673/st,small,507x507-pad,600x600,f8f8f8.jpg">
+<img align="left" width="400" src="https://www.pngitem.com/pimgs/m/87-877092_minecraft-logo-hd-png-download.png">
 
 ### Hi there, I'm Corine
   🔭 I'm currently working on finishing my Master's Thesis 
