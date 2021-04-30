@@ -17,7 +17,7 @@
 ![Spotify](https://novatorem-corinef.vercel.app/api/spotify)
 
 
-<img alt="minecraft" width="500px" src="https://www.pngitem.com/pimgs/m/87-877092_minecraft-logo-hd-png-download.png" />
+<img align="cnter" alt="minecraft" width="500px" src="https://www.pngitem.com/pimgs/m/87-877092_minecraft-logo-hd-png-download.png" />
 
 
 
