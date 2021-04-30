@@ -1,8 +1,12 @@
 ### Hey 👋  I'm Corine
-  🔭 I'm currently working on finishing my Master's Thesis 
+
+🐍 I'm currently working in Python
+
+
+🔭 Master's Thesis.. 
+<img align="center" alt="coming soon" width="50px" src="https://media.giphy.com/media/cebnL50gs0QJi53Yuj/giphy.gif" />
   
-   > Check out my recent [Jupyter Notebook](https://github.com/corinef/qPCR-analysis)🍓 
-       
+> Check out my recent [Jupyter Notebook](https://github.com/corinef/qPCR-analysis)🍓 
   
 ### Connect with me: 
 [<img align="left" alt="corinealexis.wixsite.com/corinef" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
