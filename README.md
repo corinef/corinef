@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 
 [website]: https://corinealexis.wixsite.com/corinef
 [twitter]: https://twitter.com/corinefaehn?lang=en
-[instagram]: https://www.instagram.com/cor.ine.f/
+[instagram]: https://www.instagram.com/corinefaehn/
 [linkedin]: https://www.linkedin.com/in/corinefaehn/
