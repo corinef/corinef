@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 </details> 
 
-[website]: https://corinealexis.wixsite.com/corinef
+[website]: https://www.behance.net/corinefaehn
 [twitter]: https://twitter.com/corinefaehn?lang=en
 [instagram]: https://www.instagram.com/corinefaehn/
 [linkedin]: https://www.linkedin.com/in/corinefaehn/
