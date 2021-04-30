@@ -1,10 +1,9 @@
 ### Hey 👋  I'm Corine
 
-🐍 I'm currently working in Python
-
-
 🔭 Master's Thesis.. 
 <img align="center" alt="coming soon" width="50px" src="https://media.giphy.com/media/cebnL50gs0QJi53Yuj/giphy.gif" />
+
+🐍 I'm currently working in Python
   
 > Check out my recent [Jupyter Notebook](https://github.com/corinef/qPCR-analysis)🍓 
   
@@ -18,7 +17,7 @@
 ![Spotify](https://novatorem-corinef.vercel.app/api/spotify)
 
 
-![minecraft](https://www.pngitem.com/pimgs/m/87-877092_minecraft-logo-hd-png-download.png)
+<img alt="minecraft" width="500px" src="https://www.pngitem.com/pimgs/m/87-877092_minecraft-logo-hd-png-download.png" />
 
 
 
