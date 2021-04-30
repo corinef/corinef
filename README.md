@@ -1,3 +1,6 @@
+<img align="left" alt="pink bee" width="400px" src="https://user-images.githubusercontent.com/82867617/116678947-398cdf00-a9aa-11eb-98a8-2c62efaecf04.png" />
+
+
 ### Hey 👋  I'm Corine
 
 🔭 Master's Thesis.. 
@@ -17,7 +20,7 @@
 ![Spotify](https://novatorem-corinef.vercel.app/api/spotify)
 
 
-<img align="cnter" alt="minecraft" width="500px" src="https://www.pngitem.com/pimgs/m/87-877092_minecraft-logo-hd-png-download.png" />
+<img align="cnter" alt="minecraft" width="400px" src="https://www.pngitem.com/pimgs/m/87-877092_minecraft-logo-hd-png-download.png" />
 
 
 
