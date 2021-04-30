@@ -11,10 +11,10 @@
 > Check out my recent [Jupyter Notebook](https://github.com/corinef/qPCR-analysis)🍓 
   
 ### Connect with me: 
-[<img align="left" alt="corinealexis.wixsite.com/corinef" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Corine Faehn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Corine Faehn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="corinealexis.wixsite.com/corinef" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQkNvtA3NvU0x2Va771Q4Xw9qEXlu3K8kqdeyDBRaFmNvxbzoiPKPK2kyrdzhMwMG06G4&usqp=CAU" />][website]
+[<img align="left" alt="Corine Faehn | Twitter" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3epS62P8FpU2KI3MWxGob3fnv13PVF-YGE260bgm9FNFG5bY3qgPQO1md6f9Q-DqIfTc&usqp=CAU" />][twitter]
+[<img align="left" alt="Corine Faehn | Instagram" width="22px" src="https://www.nicepng.com/png/full/68-682147_ig-icon-pink-instagram.png" />][instagram]
+[<img align="left" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqDaCwLIQNWZggquwCQ11Teif-wskaJvvl6X4Qz7-0XL1lILLPBA-BslXU0QRU6E3TKmk&usqp=CAU" />][linkedin]
  
 
 ![Spotify](https://novatorem-corinef.vercel.app/api/spotify)
