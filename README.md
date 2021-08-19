@@ -4,11 +4,9 @@
 ### Hey 👋  I'm Corine
 
 🔭 Master's in Molecular Environmental Biology 2021 
-<img align="center" alt="coming soon" width="50px" src="https://media.giphy.com/media/cebnL50gs0QJi53Yuj/giphy.gif" />
+<img align="center" alt="coming soon" width="50px" src="https://user-images.githubusercontent.com/82867617/130065930-d46eabab-5f13-4bd7-b147-6802dca96c4f.png" />
 
-🐍 I'm currently working in Python
-  
-> Check out my recent [Jupyter Notebook](https://github.com/corinef/qPCR-analysis)🍓 
+🐍 Python for [qPCR analysis](https://github.com/corinef/qPCR-analysis)🍓 
   
 ### Connect with me: 
 [<img align="left" alt="Corine Faehn | Behance" width="22px" src="https://user-images.githubusercontent.com/82867617/116710826-7a98e980-a9d2-11eb-8a7d-c97498a3e46d.png" />][website]
