@@ -3,7 +3,7 @@
 
 ### Hey 👋  I'm Corine
 
-🔭 Master's Thesis.. 
+🔭 Master's in Molecular Environmental Biology 2021 
 <img align="center" alt="coming soon" width="50px" src="https://media.giphy.com/media/cebnL50gs0QJi53Yuj/giphy.gif" />
 
 🐍 I'm currently working in Python
