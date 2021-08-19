@@ -1,5 +1,4 @@
-<img align="left" alt="pink bee" width="400px" src="https://user-images.githubusercontent.com/82867617/116678947-398cdf00-a9aa-11eb-98a8-2c62efaecf04.png" />
-
+<img align="left" alt="pink bee" width="400px" src="https://user-images.githubusercontent.com/82867617/130067030-4e291da4-0292-4618-9ab8-fa9d4f2bb338.png" />
 
 ### Hey 👋  I'm Corine
 
