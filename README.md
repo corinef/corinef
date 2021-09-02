@@ -1,9 +1,9 @@
-<img align="left" alt="pink bee" width="400px" src="https://user-images.githubusercontent.com/82867617/130067471-a7ba8c53-2c3c-4ff6-9c73-9f9e8aa003a5.png" />
+<img align="left" alt="arctic flowers" width="400px" src="https://user-images.githubusercontent.com/82867617/130067471-a7ba8c53-2c3c-4ff6-9c73-9f9e8aa003a5.png" />
 
 ### Hey 👋  I'm Corine
 
 > Master's in Molecular Environmental Biology 2021 
-<img align="center" alt="UiT logo white" width="100px" src="https://user-images.githubusercontent.com/82867617/131812361-40c0d77d-7f3f-49b8-b304-a78f82faeafa.png" />
+<img align="center" alt="UiT logo white" width="300px" src="https://user-images.githubusercontent.com/82867617/131812361-40c0d77d-7f3f-49b8-b304-a78f82faeafa.png" />
 
 
 🐍 Python for [qPCR analysis](https://github.com/corinef/qPCR-analysis)🍓 
