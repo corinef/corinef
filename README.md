@@ -1,4 +1,4 @@
-<img align="left" alt="arctic flowers" width="400px" src="https://user-images.githubusercontent.com/82867617/130067471-a7ba8c53-2c3c-4ff6-9c73-9f9e8aa003a5.png" />
+<img align="left" alt="arctic flowers" width="400px" src="https://user-images.githubusercontent.com/82867617/131813870-262b0c24-895b-480b-8240-920c6b060952.png" />
 
 ### Hey 👋  I'm Corine
 
