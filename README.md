@@ -14,13 +14,9 @@
 [<img align="left" alt="Corine Faehn | Instagram" width="22px" src="https://www.nicepng.com/png/full/68-682147_ig-icon-pink-instagram.png" />][instagram]
 [<img align="left" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqDaCwLIQNWZggquwCQ11Teif-wskaJvvl6X4Qz7-0XL1lILLPBA-BslXU0QRU6E3TKmk&usqp=CAU" />][linkedin]
  
+<img align="cnter" alt="minecraft" width="300px" src="https://user-images.githubusercontent.com/82867617/131814374-c3d5b971-f598-40ce-8b19-79b9b0d48888.png" />
 
 ![Spotify](https://novatorem-corinef.vercel.app/api/spotify)
-
-
-<img align="cnter" alt="minecraft" width="400px" src="https://user-images.githubusercontent.com/82867617/131814374-c3d5b971-f598-40ce-8b19-79b9b0d48888.png" />
-
-
 
 
 <!--
