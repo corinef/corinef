@@ -3,7 +3,8 @@
 ### Hey 👋  I'm Corine
 
 > Master's in Molecular Environmental Biology 2021 
-<img align="center" alt="coming soon" width="100px" src="https://user-images.githubusercontent.com/82867617/130067616-064165e2-1c58-479b-8741-b8571e973cfb.png" />
+<img align="center" alt="UiT logo white" width="100px" src="https://user-images.githubusercontent.com/82867617/131812361-40c0d77d-7f3f-49b8-b304-a78f82faeafa.png" />
+
 
 🐍 Python for [qPCR analysis](https://github.com/corinef/qPCR-analysis)🍓 
   
