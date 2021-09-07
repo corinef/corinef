@@ -6,7 +6,7 @@
 <img align="center" alt="UiT logo white" width="300px" src="https://user-images.githubusercontent.com/82867617/131812361-40c0d77d-7f3f-49b8-b304-a78f82faeafa.png" />
 
 
-🐍 Python for [qPCR analysis](https://github.com/corinef/qPCR-analysis)🍓 
+🐍 Python script for [qPCR analysis](https://github.com/corinef/qPCR-analysis)🍓 
   
 ### Connect with me: 
 [<img align="left" alt="Corine Faehn | Behance" width="22px" src="https://user-images.githubusercontent.com/82867617/116710826-7a98e980-a9d2-11eb-8a7d-c97498a3e46d.png" />][website]
