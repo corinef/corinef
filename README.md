@@ -2,12 +2,11 @@
 
 ### Hey 👋  I'm Corine
 
-> Master's in Molecular Environmental Biology 2021 
+> I'm currently a PhD candidate at UiT working with Arctic plant root-soil interactions.
+> I got my Master's in plant molecular environmental biology in June of 2021. 
+> Check out my Python script 🐍 for [qPCR analysis](https://github.com/corinef/qPCR-analysis)🍓
 <img align="center" alt="UiT logo white" width="300px" src="https://user-images.githubusercontent.com/82867617/131812361-40c0d77d-7f3f-49b8-b304-a78f82faeafa.png" />
-
-
-🐍 Python script for [qPCR analysis](https://github.com/corinef/qPCR-analysis)🍓 
-  
+ 
 ### Connect with me: 
 [<img align="left" alt="Corine Faehn | Behance" width="22px" src="https://user-images.githubusercontent.com/82867617/116710826-7a98e980-a9d2-11eb-8a7d-c97498a3e46d.png" />][website]
 [<img align="left" alt="Corine Faehn | Twitter" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3epS62P8FpU2KI3MWxGob3fnv13PVF-YGE260bgm9FNFG5bY3qgPQO1md6f9Q-DqIfTc&usqp=CAU" />][twitter]
